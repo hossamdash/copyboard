@@ -1,0 +1,2 @@
+# copyboard
+PyCopyBoard is a Python application built with PySimpleGUI and PySide2, offering a cross-platform clipboard assistant. The application provides draggable buttons for quick copying of frequently used text. Customize buttons with names, text, and background images/colors. The responsive layout adapts to different screen sizes, and users can configure settings such as the number of buttons and choose between dark and light themes.
